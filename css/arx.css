@@ -1,0 +1,11 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+.container-fluid {
+    height: 900%;
+    width: auto;
+    background-image: url(../images/arxmockup4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
